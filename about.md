@@ -47,7 +47,7 @@ title: 关于我
 
 - 💌 邮箱：teacher@example.com（请替换为真实邮箱）
 - 🏫 学校：某某中学（请替换）
-- 🌐 本站主页：[https://beyondpzk.github.io/english-teacher](https://beyondpzk.github.io/english-teacher)
+- 🌐 本站主页：[https://xiaoxiaomei2011-bit.github.io/](https://xiaoxiaomei2011-bit.github.io/)
 
 > 🌈 教育不是灌满一桶水，而是点燃一把火。—— 叶芝
 >

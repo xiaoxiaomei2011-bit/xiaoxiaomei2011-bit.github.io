@@ -36,19 +36,19 @@ npm run docs:preview
 
 ## 部署到 GitHub Pages
 
-1. 在 GitHub 上创建一个新仓库，例如 `english-teacher`。
+1. 在 GitHub 上创建一个名为 `xiaoxiaomei2011-bit.github.io` 的公开仓库。
 2. 将本项目代码推送到该仓库：
    ```bash
    git init
    git add .
    git commit -m "init: teacher pages"
    git branch -M main
-   git remote add origin https://github.com/beyondpzk/english-teacher.git
+   git remote add origin https://github.com/xiaoxiaomei2011-bit/xiaoxiaomei2011-bit.github.io.git
    git push -u origin main
    ```
 3. 进入仓库 **Settings → Pages → Source**，选择 **GitHub Actions**。
 4. 推送代码后，GitHub Actions 会自动构建并部署。
-5. 访问 `https://beyondpzk.github.io/english-teacher/` 查看效果。
+5. 访问 `https://xiaoxiaomei2011-bit.github.io/` 查看效果。
 
 ## 目录结构
 
