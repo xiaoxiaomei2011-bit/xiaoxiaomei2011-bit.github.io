@@ -1,0 +1,22 @@
+{
+  "name": "english-teacher-pages",
+  "version": "1.0.0",
+  "description": "初中英语教师的 GitHub Pages 教学站点",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [
+    "teacher",
+    "english",
+    "vitepress",
+    "github-pages"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
