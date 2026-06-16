@@ -4,7 +4,7 @@ layout: home
 hero:
   name: 英语老师小站
   text: 让英语变甜甜 🍬
-  tagline: 初中英语 · 可爱教案 · 有趣作业 · 学习资料
+  tagline: 初中英语 · 可爱教案 · 有趣作业 · 学习资料 · GitHub Actions 部署测试 ✨
   image:
     src: /assets/img/mascot.svg
     alt: 小可爱吉祥物
